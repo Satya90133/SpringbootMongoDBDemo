@@ -1,0 +1,9 @@
+{
+  "product": {
+    "_id": "1",
+    "name": "Test",
+    "description": "Test item",
+    "price": "0.0",
+    "quantity": 1
+  }
+}

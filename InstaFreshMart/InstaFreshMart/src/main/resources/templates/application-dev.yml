@@ -1,0 +1,8 @@
+app:
+  name: InstaFresh Mart - Swagger and Profiles Tutorial
+server:
+  port: 8091
+
+
+spring:
+  profile-testing-key: instafreshmart - dev profile is set .
